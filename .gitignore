@@ -1,0 +1,22 @@
+# VS Code stuff
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+.history/
+*.vsix
+
+# IntelliJ Stuff
+*.iml
+.idea/
+
+# Other Stuff
+*.properties
+node_modules/
+
+# Binary Output
+dist/
+out/
+target/
